@@ -105,12 +105,12 @@ python cliente.py
 1. Ingresa tu nombre al iniciar
 2. Haz clic y arrastra sobre las letras para seleccionar una palabra
 3. Las palabras pueden estar en cualquiera de las 8 direcciones
-4. Usa el botón **Resolver** si necesitas ayuda
+4. Usa el botón Resolver si necesitas ayuda
 5. Al completar el juego tu puntaje se guarda automáticamente
-6. Consulta el ** Ranking** para ver los mejores jugadores
+6. Consulta el Ranking para ver los mejores jugadores
 ---
  
-## 📝 Palabras del juego
+## Palabras del juego
  
 `TRADUCTOR` · `CAMARERA` · `EMPLEADO` · `RELOJERO` · `APICULTOR` · `ATLETA` · `ASTRONAUTA` · `CONDUCTOR` · `JOYERO` · `CIRUJANO` · `FOTOGRAFO` · `MODISTA` · `GEOLOGO` · `JUEZ` · `MODELO`
  
